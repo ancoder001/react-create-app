@@ -1,4 +1,4 @@
-This is a basic create-react-app with tailwindcss configuration
+This is a basic create-react-app project with tailwindcss configuration
 
 to use this run the follwing commands
 
